@@ -1,0 +1,3 @@
+# DL-20261024 lessons
+
+The forked SkillOpt optimizer backend is distinct from the Chase-owned Collector and installed personal learning skill. Replacing the optimizer Backend or editing a Chase prompt would not establish a Decisions API integration. Use an explicit read-only companion, preserve existing outcomes and independently verify any future invocation route. No repository AGENTS.md/current handoff existed at the observed base; current Drive SkillOpt Learning/Second Brain policies and newer baseline were read. Fake answers are parser/guard evidence, not task-completion proof or real model accuracy. No state, learning or adoption rules changed.
